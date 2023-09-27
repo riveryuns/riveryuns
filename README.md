@@ -1,8 +1,10 @@
 <div align="center">
-
 # 🌜 기록기록! 🌛
 
 <br/>
+
+### 🛠︎Tech stack🛠︎
+
 <br/>
 </div>
 
@@ -11,8 +13,9 @@
 
 <br/>
 
-<a href="https://river-yun28.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/River_yun28-FF5733?style=for-the-badge&logo=tistory&logoColor=ffffff"/></a>
-<a href="https://www.instagram.com/river_yun03/" target="_blank"><img src="https://img.shields.io/badge/river_yun03-E02499?style=for-the-badge&logo=instagram&logoColor=ffffff"/></a>
+
+<a href="https://river-yun28.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-FF5733?style=for-the-badge&logo=tistory&logoColor=ffffff"/></a>
+<a href="https://www.instagram.com/river_yun03/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E02499?style=for-the-badge&logo=instagram&logoColor=ffffff"/></a>
 
 ### 🌱Study log🌱
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=riveryuns&show_icons=true&theme=great-gatsby)
