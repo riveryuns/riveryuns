@@ -1,3 +1,4 @@
+<div align="center">
 # 🌜 기록기록! 🌛
 
 <br>
@@ -10,6 +11,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=riveryuns&show_icons=true&theme=great-gatsby)
 
+</div>
 
 <!--
 **riveryuns/riveryuns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
