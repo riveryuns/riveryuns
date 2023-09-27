@@ -1,18 +1,16 @@
 <div align="center">
-# 🌜 기록기록! 🌛
-
-<br/>
+  
+  # 🌜 기록기록! 🌛
+  <br/>
+  
+</div>
 
 ### 🛠︎Tech stack🛠︎
 
 <br/>
-</div>
 
 ### 🫶About me🫶
 * 🏫 Induk university
-
-<br/>
-
 
 <a href="https://river-yun28.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-FF5733?style=for-the-badge&logo=tistory&logoColor=ffffff"/></a>
 <a href="https://www.instagram.com/river_yun03/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E02499?style=for-the-badge&logo=instagram&logoColor=ffffff"/></a>
