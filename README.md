@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="버튼을 눌렀을 때 이동할 링크" target="https://www.instagram.com/river_yun03/"><img src="https://img.shields.io/badge/river_yun03-FF0988?style=plastic&logo=#E4405F&logoColor=ffffff"/></a>
+<a href="https://www.instagram.com/river_yun03/" target="_blank"><img src="https://img.shields.io/badge/river_yun03-FF0988?style=plastic&logo=E4405F&logoColor=ffffff"/></a>
