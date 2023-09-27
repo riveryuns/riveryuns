@@ -6,7 +6,7 @@
 </div>
 
 ### 🛠︎Tech stack🛠︎
-
+<a href="_blank" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000"/></a>
 <br/>
 
 ### 🫶About me🫶
