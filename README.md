@@ -5,7 +5,7 @@
 <br>
 <br>
 
-### my
+### 🫶about me🫶
 <a href="https://www.instagram.com/river_yun03/" target="_blank"><img src="https://img.shields.io/badge/river_yun03-E02499?style=for-the-badge&logo=instagram&logoColor=ffffff"/></a>
 
 ### 🌱study log🌱
