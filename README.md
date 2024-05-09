@@ -11,7 +11,7 @@
 <br/>
 
 ### 🙂 About me 🙂
-* 🏫 Induk university
+ 🏫 Induk university
 
 <a href="https://river-yun28.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-FF5733?style=for-the-badge&logo=tistory&logoColor=ffffff"/></a>
 <a href="https://www.instagram.com/river_yun03/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E02499?style=for-the-badge&logo=instagram&logoColor=ffffff"/></a>
