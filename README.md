@@ -3,7 +3,7 @@
   # 🌜 기록기록! 🌛
   <br/>
   
-</div>
+
 
 ### 🛠︎ Tech stack 🛠︎
 <a href="_blank" target="_blank"><img src="https://img.shields.io/badge/C-659AD2?style=for-the-badge&logo=C&logoColor=000000"/></a>
@@ -21,7 +21,7 @@
 
 <!--
 **riveryuns/riveryuns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+</div>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
